@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to NagBank accounts related QA APIs "
+  message: "Welcome to NagBank accounts related LOCAL APIs "
   contactDetails:
     name: "Naegndra Limbu - Developer"
     email: "nagendra.limbu@gmail.com"
